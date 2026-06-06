@@ -1,0 +1,6 @@
+
+State Machine - |t2a_dht|k
+Name k.01 k.11 k.00 
+k.00 0 0 0 
+k.01 1 0 1 
+k.11 0 1 1 

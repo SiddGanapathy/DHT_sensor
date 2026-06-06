@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Quartus_Projects/t2a_dht/simulation/modelsim
+vt2a_dht
+!s110 1763521425
+!i10b 1
+!s100 BH8DeSX4E7[VkP?^JIfN^1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_e=g?GWO[I8bKC<U6KkgI1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1763521385
+8C:/Users/User/Quartus_Projects/t2a_dht/code/t2a_dht.v
+FC:/Users/User/Quartus_Projects/t2a_dht/code/t2a_dht.v
+!i122 0
+L0 4 317
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1763521425.000000
+!s107 C:/Users/User/Quartus_Projects/t2a_dht/code/t2a_dht.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Quartus_Projects/t2a_dht/code|C:/Users/User/Quartus_Projects/t2a_dht/code/t2a_dht.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/User/Quartus_Projects/t2a_dht/code
+Z5 tCvgOpt 0
+vtb
+!s110 1763521426
+!i10b 1
+!s100 5fd9NaJ]SbaCWCm5@Z32]3
+R1
+I8`NA?7k05>B^Q21gmXj]=1
+R2
+R0
+w1763309044
+8C:/Users/User/Quartus_Projects/t2a_dht/.test/tb.v
+FC:/Users/User/Quartus_Projects/t2a_dht/.test/tb.v
+!i122 1
+L0 3 246
+R3
+r1
+!s85 0
+31
+!s108 1763521426.000000
+!s107 C:/Users/User/Quartus_Projects/t2a_dht/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/Quartus_Projects/t2a_dht/.test|C:/Users/User/Quartus_Projects/t2a_dht/.test/tb.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/User/Quartus_Projects/t2a_dht/.test
+R5
